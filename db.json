@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Telephone ",
+      "price": 900,
+      "quantity": "200",
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Printer ",
+      "price": 1900,
+      "quantity": "200",
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "camera canon",
+      "price": "550",
+      "quantity": "10",
+      "selected": true,
+      "available": true
+    }
+  ]
+}
